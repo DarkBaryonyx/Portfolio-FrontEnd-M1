@@ -1,2 +1,2 @@
-# YoProgramo -FrontEnd - Unidad 1
-Portfolio generado durante el curso de Argentina Programa
+# My portfolio
+Repositorio utilizado durante el curso de argentina programa en el módulo 1, en el cual realizamos practicas con Github
